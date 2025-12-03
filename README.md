@@ -23,5 +23,3 @@ He brings a strong academic foundation with a **B.Sc in Computer Science**, and 
 ## **Course Style**
 
 The course keeps things simple, slow-paced, and practical. Each topic includes examples, exercises, and real-world applications that suit mathematics, physics, chemistry, and general science educators.
-
-If you'd like, I can also format this as a **PDF**, **GitHub README.md**, or create a more styled version with headers, badges, or course outline.
